@@ -2,6 +2,16 @@
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.10.
 
+## Installation command
+npm install -g angular-cli
+
+## Create a new project
+ ng new my-project
+ 
+ 
+ ##Install Angular Material 2 components
+ npm install --save  @angular2-material/button    @angular2-material/button-toggle    @angular2-material/card    @angular2-material/checkbox    @angular2-material/core    @angular2-material/grid-list    @angular2-material/icon    @angular2-material/input    @angular2-material/list    @angular2-material/menu    @angular2-material/progress-bar    @angular2-material/progress-circle    @angular2-material/radio    @angular2-material/sidenav    @angular2-material/slider    @angular2-material/slide-toggle    @angular2-material/tabs    @angular2-material/toolbar    @angular2-material/tooltip
+
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
